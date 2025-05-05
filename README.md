@@ -15,4 +15,5 @@ For XLM:
   test_texts, test_labels = read_data('       .txt')
 
   For EN/ES: first train on the english_data.txt and test on the test.txt file, then train on spanish_data.txt and test on the test.txt file
+  
   For ML/ES: first train on the english_data.txt and test on the enma_natural_test.txt, then train on the malayalam_clean.txt and test on the enma_natural_test.txt
